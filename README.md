@@ -29,6 +29,6 @@ a. One player successfully gets three of their marks in a row (vertically, horiz
 b. If no player can create a straight line with their own mark, and all positions on the board are occupied, the game ends in a draw/tie.
 
 # Features
-Supports two-player gameplay.
-Follows the standard rules of Tic Tac Toe.
-A simple and easy-to-understand interface.
+- Supports two-player gameplay.
+- Follows the standard rules of Tic Tac Toe.
+- A simple and easy-to-understand interface.
