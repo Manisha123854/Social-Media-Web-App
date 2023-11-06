@@ -16,19 +16,20 @@ Tic Tac Toe is a two-player game played on a 3x3 grid. Two players take turns ma
     - Player 2: The second player.
 
 # Game Rules
-Players choose between the symbols "X" and "O."
+- Players choose between the symbols "X" and "O."
 
-Player 1 plays first and uses the "X" mark, while Player 2 plays second and uses the "O" mark.
+- Player 1 plays first and uses the "X" mark, while Player 2 plays second and uses the "O" mark.
 
-Players take turns making moves, with Player 1 starting.
+- Players take turns making moves, with Player 1 starting.
 
-A player marks any of the 3x3 squares with their mark ("X" or "O") with the intention of creating a straight line horizontally, vertically, or diagonally.
+- A player marks any of the 3x3 squares with their mark ("X" or "O") with the intention of creating a straight line horizontally, vertically, or diagonally.
 
-The game ends with two possible outcomes:
-a. One player successfully gets three of their marks in a row (vertically, horizontally, or diagonally) and wins the game.
-b. If no player can create a straight line with their own mark, and all positions on the board are occupied, the game ends in a draw/tie.
+- The game ends with two possible outcomes:
+  a. One player successfully gets three of their marks in a row (vertically, horizontally, or diagonally) and wins the game.
+  b. If no player can create a straight line with their own mark, the game ends in a draw/tie.
 
 # Features
 - Supports two-player gameplay.
 - Follows the standard rules of Tic Tac Toe.
 - A simple and easy-to-understand interface.
+- Tracks and announces the winner or a draw.
