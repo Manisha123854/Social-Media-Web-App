@@ -15,7 +15,7 @@ Player Options:
 Player 1: The first player.
 Player 2: The second player.
 
-#Game Rules
+# Game Rules
 Players choose between the symbols "X" and "O."
 
 Player 1 plays first and uses the "X" mark, while Player 2 plays second and uses the "O" mark.
@@ -28,7 +28,7 @@ The game ends with two possible outcomes:
 a. One player successfully gets three of their marks in a row (vertically, horizontally, or diagonally) and wins the game.
 b. If no player can create a straight line with their own mark, and all positions on the board are occupied, the game ends in a draw/tie.
 
-#Features
+# Features
 Supports two-player gameplay.
 Follows the standard rules of Tic Tac Toe.
 A simple and easy-to-understand interface.
