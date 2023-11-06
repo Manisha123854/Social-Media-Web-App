@@ -26,7 +26,7 @@ Tic Tac Toe is a two-player game played on a 3x3 grid. Two players take turns ma
 - Follows the standard rules of Tic Tac Toe.
 - A simple and easy-to-understand interface.
 - Tracks and announces the winner or a draw.
-
-  ![image](https://github.com/Manisha152/social_project/assets/87291128/160e057c-a8bd-4373-b054-373195ed8f74) ![image](https://github.com/Manisha152/social_project/assets/87291128/7a598b8a-6595-4f61-ae5e-a1be87eba188)
+![image](https://github.com/Manisha152/social_project/assets/87291128/6afa7ea0-dcc1-4467-a395-ba0d680e445e)
+![image](https://github.com/Manisha152/social_project/assets/87291128/7a598b8a-6595-4f61-ae5e-a1be87eba188)
 
 
