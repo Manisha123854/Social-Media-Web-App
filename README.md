@@ -6,14 +6,14 @@ The aim of this project is to develop a Tic Tac Toe game using python. The prima
 # Game Description
 Tic Tac Toe is a two-player game played on a 3x3 grid. Two players take turns marking the squares on the grid with their symbols. The objective is to be the first to get three of their symbols in a row, either horizontally, vertically, or diagonally.
 
-Game Grid: The game is played on a 3x3 board.
+- Game Grid: The game is played on a 3x3 board.
 
-Winning Condition: To win, a player needs to have three of their symbols in a row, either horizontally, vertically, or diagonally.
+- Winning Condition: To win, a player needs to have three of their symbols in a row, either horizontally, vertically, or diagonally.
 
-Player Options:
+- Player Options:
 
-Player 1: The first player.
-Player 2: The second player.
+    - Player 1: The first player.
+    - Player 2: The second player.
 
 # Game Rules
 Players choose between the symbols "X" and "O."
