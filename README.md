@@ -1,7 +1,7 @@
 # Tic Tac Toe Game 
 
 # Overview
-This Python project aims to develop a classic Tic Tac Toe game. The primary goal is to create a program that allows two players to play against each other. It's a fun and strategic game that can be enjoyed by friends and family.
+The aim of this project is to develop a Tic Tac Toe game using python. The primary goal is to create a program that allows two players to play against each other. It's a fun and strategic game that can be enjoyed by friends and family.
 
 # Game Description
 Tic Tac Toe is a two-player game played on a 3x3 grid. Two players take turns marking the squares on the grid with their symbols. The objective is to be the first to get three of their symbols in a row, either horizontally, vertically, or diagonally.
